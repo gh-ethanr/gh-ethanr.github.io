@@ -10,15 +10,7 @@
 .at() member function, boolean statements, and input validation all being important and foundational parts of the program.
     1. For example:
     '''
-    bool CanParkOnDate(const std::string& day, int hour, int min) {
-     if ((day == "mon") && (hour >= 6) && (hour < 16) && (min >= 30)) {
-    return false;  // yandere dev type code
-      }
-    if ((day == "mon") && (hour > 6) && (hour < 16)) {
-    return false;
-    }
-    if ((day == "tue") && (hour >= 6) && (hour < 16) && (min >= 30)) {
-    return false;
+    does this work
     '''
 
 
